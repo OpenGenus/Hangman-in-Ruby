@@ -1,6 +1,8 @@
 # Hangman-in-Ruby
 Hangman game in Ruby
 
+[Documentation and step-by-step development](https://iq.opengenus.org/hangman-game-in-ruby/) by OG Intern Fabien Brathwaite
+
 ## Built with
 RUBY and RUBY2D
 
